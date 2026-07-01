@@ -10,3 +10,5 @@ venv/
 
 # C++ build
 build/
+
+*.env
